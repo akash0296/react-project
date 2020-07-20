@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Input element tests matches the snaphot 1`] = `
+<styled.div
+  className="input-group"
+>
+  <styled.input
+    className="custom-input"
+    formNoValidate={true}
+    onBlur={[Function]}
+    onChange={
+      [MockFunction] {
+        "calls": Array [
+          Array [
+            Object {
+              "target": Object {
+                "value": "Some text",
+              },
+            },
+          ],
+        ],
+        "results": Array [
+          Object {
+            "type": "return",
+            "value": undefined,
+          },
+        ],
+      }
+    }
+    type="text"
+    value="Some text"
+  />
+</styled.div>
+`;

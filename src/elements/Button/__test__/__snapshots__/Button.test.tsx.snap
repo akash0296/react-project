@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button element tests matches the snaphot 1`] = `
+<styled.button
+  className="btn-primary"
+  disabled={false}
+  title="Some title"
+>
+  Some title
+</styled.button>
+`;

@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Choose file component tests matches the snaphot 1`] = `
+<styled.input
+  accept=".jpg, .jpeg, .png"
+  className="custom-file-input"
+  id="file"
+  name="file"
+  onChange={[MockFunction]}
+  type="file"
+/>
+`;

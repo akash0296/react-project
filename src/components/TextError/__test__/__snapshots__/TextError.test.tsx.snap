@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Text Error component tests matches the snaphot 1`] = `
+<ErrorTextBlock>
+  <ForwardRef(SvgError) />
+  <p>
+    Test Error Text
+  </p>
+</ErrorTextBlock>
+`;
